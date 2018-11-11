@@ -1,6 +1,6 @@
 # Czujnik jakości powietrza
 ## 1. Cel projektu.
-	Naszym zamiarem jest stworzyć przy użyciu C/C++, program informujący o stanie 
+Naszym zamiarem jest stworzyć przy użyciu C/C++, program informujący o stanie 
 jakości powietrza. Czujnik będzie na bazie znanego mikrokontrolera Arduino z 
 wykorzystaniem gotowego modułu MQ-135. W planach także jest aplikacja na 
 Androida.
