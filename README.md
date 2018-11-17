@@ -13,14 +13,15 @@ powiadomienie poprzez linię komend, dokument tekstowy (*.txt) lub
 wyskakujące okno.
 ## 3. Wymogi.
 ### 3.1 Użytkownik komputera
-1. Mikrokontroler Arduino NANO,
+1. Mikrokontroler Arduino UNO,
 2. Moduł MQ-135,
-3. Wymagane okablowanie.
+3. Wymagane okablowanie,
+4. Obudowa zabezpieczająca przed czynnikami atmosferycznymi.
 ### 3.2 Użytkownik mobilny
-1. Mikrokontroler Arduino NANO,
+1. Mikrokontroler Arduino UNO,
 2. Moduł MQ-135,
 3. Moduł Wi-fi,
 4. Wymagane okablowanie,
-5. Obudowa zaebezpieczjąca przed czynnikami atmosferycznymi
-6.(...)
+5. Obudowa zabezpieczjąca przed czynnikami atmosferycznymi,
+6. (...)
 ## 4. Postanowienia końcowe.
